@@ -1,9 +1,9 @@
 # My-Archive
 Personal content management tool that allows me to view, organize, and export my own LinkedIn posts. Helps with content archiving and reuse for personal productivity.
 
-# Privacy Policy for [Your App Name]
+# Privacy Policy for My Archive
 
-**Last updated: [Date]**
+**Last updated: August 4, 2025**
 
 ## What Data We Collect
 - Your LinkedIn posts and associated metadata (likes, comments, shares)
@@ -25,7 +25,7 @@ Personal content management tool that allows me to view, organize, and export my
 - Disconnect the LinkedIn integration anytime through LinkedIn's app settings
 
 ## Contact
-- Email: [your-email] for any privacy questions
+- Email: horllsey@gmail.com for any privacy questions
 
 ## Updates
 - We'll update this policy if our data practices change
